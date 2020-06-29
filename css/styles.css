@@ -259,6 +259,7 @@ button {
 }
 .work-area-card {
 	width: calc((100% - 30px * 2) / 3);
+	position: relative;
 }
 .work-area-card:not(:last-child) {
 	margin-right: 30px;
@@ -273,6 +274,10 @@ button {
 	text-align: center;
 	color: var(--primary-white-color);
 	background-color: var(--box-undertext-color);
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	left: 0;
 }
 /* Team */
 .team-container {
