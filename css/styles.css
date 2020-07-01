@@ -528,14 +528,6 @@ a {
 	color: var(--accent-color);
 	background-color: var(--primary-white-color);
 }
-/* .footer-button::after {
-	content: "";
-	width: 24px;
-	height: 24px;
-	margin-left: 10px;
-	background-image: url(../images/icon-send.svg);
-	background-size: contain;
-} */
 /* Портфолио */
 .portfolio {
 	width: 1200px;
